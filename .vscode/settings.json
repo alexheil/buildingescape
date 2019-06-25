@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/Users/alexheil/Unreal Projects/BuildingEscape/BuildingEscape/.vscode": true,
+		"/Users/alexheil/Unreal Projects/BuildingEscape/BuildingEscape/Content": true,
+		"/Users/alexheil/Unreal Projects/BuildingEscape/BuildingEscape/Intermediate": true
+	}
+}
